@@ -1,0 +1,15 @@
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\obj\Debug\net6.0\MAC109 CTC Project4 ACTUAL.csproj.AssemblyReference.cache
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\obj\Debug\net6.0\MAC109 CTC Project4 ACTUAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\obj\Debug\net6.0\MAC109 CTC Project4 ACTUAL.AssemblyInfoInputs.cache
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\obj\Debug\net6.0\MAC109 CTC Project4 ACTUAL.AssemblyInfo.cs
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\obj\Debug\net6.0\MAC109 CTC Project4 ACTUAL.csproj.CoreCompileInputs.cache
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\bin\Debug\net6.0\MAC109 CTC Project4 ACTUAL.exe
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\bin\Debug\net6.0\MAC109 CTC Project4 ACTUAL.deps.json
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\bin\Debug\net6.0\MAC109 CTC Project4 ACTUAL.runtimeconfig.json
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\bin\Debug\net6.0\MAC109 CTC Project4 ACTUAL.dll
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\bin\Debug\net6.0\MAC109 CTC Project4 ACTUAL.pdb
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\obj\Debug\net6.0\MAC109 CTC Project4 ACTUAL.dll
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\obj\Debug\net6.0\refint\MAC109 CTC Project4 ACTUAL.dll
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\obj\Debug\net6.0\MAC109 CTC Project4 ACTUAL.pdb
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\obj\Debug\net6.0\MAC109 CTC Project4 ACTUAL.genruntimeconfig.cache
+C:\Users\Riyan\source\repos\MAC109 CTC Project4 ACTUAL\MAC109 CTC Project4 ACTUAL\obj\Debug\net6.0\ref\MAC109 CTC Project4 ACTUAL.dll

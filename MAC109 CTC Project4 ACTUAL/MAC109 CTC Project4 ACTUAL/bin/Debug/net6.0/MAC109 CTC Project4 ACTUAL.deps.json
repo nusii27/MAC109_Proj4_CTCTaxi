@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MAC109 CTC Project4 ACTUAL/1.0.0": {
+        "runtime": {
+          "MAC109 CTC Project4 ACTUAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MAC109 CTC Project4 ACTUAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
